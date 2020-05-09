@@ -1,4 +1,6 @@
 {
+  "iftttKey": "<your_ifttt_key>",
+  "iftttEvent": "<your_event_nme>",
   "stocks" : [
     {
       "name": "wipro",
