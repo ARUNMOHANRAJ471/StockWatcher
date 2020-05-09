@@ -1,0 +1,22 @@
+{
+  "stocks" : [
+    {
+      "name": "wipro",
+      "url": "https://www.moneycontrol.com/india/stockpricequote/computers-software/wipro/W",
+      "threshold": 190,
+      "operation": "gt"
+    },
+    {
+      "name": "Kalpataru powers",
+      "url": "https://www.moneycontrol.com/india/stockpricequote/power-transmissionequipment/kalpatarupowertransmission/KPT",
+      "threshold": 180,
+      "operation": "gt"
+    },
+    {
+      "name": "itc",
+      "url": "https://www.moneycontrol.com/india/stockpricequote/cigarettes/itc/ITC",
+      "threshold": 160,
+      "operation": "lt"
+    }
+  ]
+}
